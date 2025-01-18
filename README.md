@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Lua programming related to type handling.  The `bug.lua` file contains code that attempts to perform arithmetic on a string value. This results in a runtime error.  The `bugSolution.lua` file shows a corrected version with robust type checking to prevent such issues.
